@@ -23,4 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerna-nagpal&show_icons=true&locale=en&layout=compact" alt="prerna-nagpal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prerna-nagpal&show_icons=true&locale=en" alt="prerna-nagpal" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prerna-Nagpal" alt="GitHub Streak" />
 
