@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
