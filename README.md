@@ -60,8 +60,9 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerna-nagpal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-nagpal&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna-nagpal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Prerna's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-nagpal&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   
 </div>
 
@@ -71,7 +72,13 @@
   
 </div>
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=prerna-nagpal&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
 ## 📈 Contribution Graph
 
@@ -81,6 +88,13 @@
   
 </div>
 
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
 
 ## 🔥 Recent Activity
 
