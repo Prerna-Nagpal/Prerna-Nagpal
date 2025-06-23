@@ -60,25 +60,17 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna-nagpal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Prerna's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-nagpal&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna-nagpal&show_icons=true&theme=tokyonight&hide_border=true&show_icons=true" alt="Prerna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-nagpal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prerna-nagpal&theme=tokyonight)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerna-nagpal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=prerna-nagpal&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
 ## 📈 Contribution Graph
 
