@@ -43,6 +43,8 @@
 ### Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  ![Postman](https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png)
+
 </p>
 
 ### Databases
